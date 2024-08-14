@@ -2,12 +2,24 @@ html {
     background-color: rgb(255, 255, 177);
 }
 
-
-.unordered-list.element {
-    background-color: green;
-    font-size: 49px;
+h1 {
+    font-size: 50px;
 }
 
-.unordered-list .element {
-    color: red;
+h4 {
+    font-size: 28px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+.p-beschreibung {
+    font-size: 24px;
+}
+
+
+.unordered-list,
+.ordered-list {
+    font-size: 26px;
 }
